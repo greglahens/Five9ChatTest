@@ -376,6 +376,7 @@ h1.ui-title {
 }
 .ui-content > div {
   color: #292f33 !important;
+  size: 14px !important;
 }
 .ui-popup {
   background-color: #fff !important;
