@@ -476,8 +476,8 @@ select {
 }
 /*Added by Greg L 4/13/2026*/
 .five9-chat-button {
-  display: block;
-  position: static;
+  display: block !important;
+  position: static !important;
   border: 1px solid #21174b !important;
   background-color: #21174b !important;
   color: #fff !important;
