@@ -368,7 +368,8 @@ body {
 }
 .ui-header {
   border-width: 0 !important;
-  background-color: #292f33 !important;
+  /*background-color: #292f33 !important;*/
+  background-color: #ffffff !important;
 }
 h1.ui-title {
   background: none;
