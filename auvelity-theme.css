@@ -475,7 +475,7 @@ select {
   box-shadow: 0 0 6px 0 #288dc1 !important;
 }
 /*Added by Greg L 4/13/2026*/
-#five9-minimize-button .five9-chat-button {
+#five9-minimize-button {
   display: block !important;
   position: static !important;
   border: 1px solid #21174b !important;
