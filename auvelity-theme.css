@@ -419,8 +419,10 @@ select {
   border: 1px solid #cccece !important;
 }
 .five9-action-btn {
-  border: 1px solid #1e6a91 !important;
-  background-color: #1e6a91 !important;
+  /*border: 1px solid #1e6a91 !important;
+  background-color: #1e6a91 !important;*/
+  border: 1px solid #21174b !important;
+  background-color: #21174b !important;
   color: #fff !important;
   font-size: 25px !important;
   line-height: 0.5;
