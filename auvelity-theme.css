@@ -512,13 +512,15 @@ div.message-container-agent div.message-container a {
   color: #288dc1 !important;
 }
 div.message-container-client div.message-container {
-  background-color: #21174b !important; /*#1e6a91 !important;*/
-  color: #fff !important;
+  background-color: #ffffff !important; 
+  color: #333333 !important;
+  /*background-color: #21174b !important;*/ /*#1e6a91 !important;*/
+  /*color: #fff !important;*/
   box-shadow: 0 1px 0 #1e6a91 !important;
 }
 div.message-container-client div.message-container a {
   font-weight: normal !important;
-  color: #fff !important;
+  color: #333333 !important; /*#fff !important;*/
 }
 div.typing {
   color: #7c868d !important;
