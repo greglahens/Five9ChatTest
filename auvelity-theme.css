@@ -474,6 +474,14 @@ select {
   outline: none;
   box-shadow: 0 0 6px 0 #288dc1 !important;
 }
+/*Added by Greg L 4/13/2026*/
+.five9-chat-button {
+  display: block;
+  position: static;
+  border: 1px solid #21174b !important;
+  background-color: #21174b !important;
+  color: #fff !important;
+}
 .five9-left-btn,
 .five9-right-btn {
   color: #fff !important;
