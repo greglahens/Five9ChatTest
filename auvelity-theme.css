@@ -517,6 +517,10 @@ div.message-container-client div.message-container {
   /*background-color: #21174b !important;*/ /*#1e6a91 !important;*/
   /*color: #fff !important;*/
   box-shadow: 0 1px 0 #1e6a91 !important;
+  
+  /* added border to chat bubbles*/
+  border: 1px solid #d3d3d3 !important;
+  border-radius: 10px;
 }
 div.message-container-client div.message-container a {
   font-weight: normal !important;
