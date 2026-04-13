@@ -480,6 +480,7 @@ select {
   position: static !important;
   border: 1px solid #21174b !important;
   background-color: #21174b !important;
+  background-image: none !important;
   color: #fff !important;
 }
 .five9-left-btn,
