@@ -1,0 +1,26 @@
+<html>
+<head>
+<script 
+src="https://cdn.prod.us.five9.net/static/stable/chat/wrapper/index.js">
+</script>
+<script> 
+	const queryString = window.location.search;
+	const urlParams = new URLSearchParams(queryString);
+	const topic = urlParams.get('topic');
+	// Output to console for verification
+        console.log("Topic:", topic);
+</script>
+
+</head>
+<body>Hello!
+
+<script>
+  F9.Chat.Wrapper.init({
+    cdn: 'prod',
+    integrationId: 'b2fb9297-fd51-4bf7-879f-e25734ad4214',
+    chatDeploymentId : '705c525a-d204-48e9-8779-566a582cf3de'
+  });
+</script>
+
+</body>
+</html>
