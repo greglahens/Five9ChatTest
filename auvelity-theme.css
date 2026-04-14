@@ -480,7 +480,7 @@ select {
   display: block !important;
   position: static !important;
 }
-.five9-header .five9-chat-button {
+#five9-minimize-button.five9-chat-button {
   display: block !important;
   position: static !important;
   border: 1px solid #21174b !important;
